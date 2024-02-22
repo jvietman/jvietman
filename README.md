@@ -1,3 +1,3 @@
 # Hi there 👋
 
-Actively working on: [Desktop Buddy](Desktop-Buddy)
+Actively working on: [Desktop Buddy](desktop-buddy)
