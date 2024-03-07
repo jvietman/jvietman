@@ -1,8 +1,7 @@
 # Hi there 👋
 
 ### Actively working on:
-![Desktop Buddy](https://github-readme-stats.vercel.app/api/pin/?username=jvietman\&repo=desktop-buddy\&show_owner=true)
-
+[![Desktop Buddy](https://github-readme-stats.vercel.app/api/pin/?username=jvietman\&repo=desktop-buddy\&show_owner=true)](https://github.com/jvietman/desktop-buddy)
 ## Languages
 - Python <img width="20" alt="python" src="https://github.com/jvietman/jvietman/assets/77661493/8ac8cf01-c448-4236-9aa8-a6e41402c5a1">
 - Java <img width="20" alt="java" src="https://github.com/jvietman/jvietman/assets/77661493/049d6844-b3a0-448e-85f1-b605b4dcf8e5">
