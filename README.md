@@ -1,8 +1,9 @@
 # Hi there 👋
 
-### Yo! Don't forget to do Advent of Code 2024!
-Wanna check out my solutions? Here is a repository for it.
-[![AdventOfCode](https://github-readme-stats.vercel.app/api/pin/?username=jvietman\&repo=desktop-buddy\&show_owner=true)](https://github.com/jvietman/desktop-buddy)
+## Advent of Code 2024
+Wanna check out my solutions for all of the puzzles? Here is a repository for it.
+
+[![AdventOfCode](https://github-readme-stats.vercel.app/api/pin/?username=jvietman\&repo=advent-of-code-2024\&show_owner=true)](https://github.com/jvietman/advent-of-code-2024)
 
 ## Languages
 - Python <img width="20" alt="python" src="https://github.com/jvietman/jvietman/assets/77661493/8ac8cf01-c448-4236-9aa8-a6e41402c5a1">
