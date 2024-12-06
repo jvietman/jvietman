@@ -1,11 +1,11 @@
 # Hi there 👋
 
 ## Advent of Code 2024
-Here are my solutions for the current Advent of Code 2024.
+**Here are my solutions** for the current Advent of Code 2024.
 
 [![AdventOfCode](https://github-readme-stats.vercel.app/api/pin/?username=jvietman\&repo=advent-of-code-2024\&show_owner=true)](https://github.com/jvietman/advent-of-code-2024)
 
-Check if out yourself on [adventofcode.com](https://adventofcode.com/).
+**Wanna try it yourself?** Check if out yourself on [adventofcode.com](https://adventofcode.com/).
 
 ## Languages
 - Python <img width="20" alt="python" src="https://github.com/jvietman/jvietman/assets/77661493/8ac8cf01-c448-4236-9aa8-a6e41402c5a1">
