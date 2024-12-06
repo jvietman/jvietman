@@ -1,7 +1,8 @@
 # Hi there 👋
 
-## Advant of Code 2024
+## Advent of Code 2024
 [![AdventOfCode](https://github-readme-stats.vercel.app/api/pin/?username=jvietman\&repo=advent-of-code-2024\&show_owner=true)](https://github.com/jvietman/advent-of-code-2024)
+
 You can find all my solutions for the current Advent of Code in the repository above.
 **Wanna try it yourself?** Check if out yourself on [adventofcode.com](https://adventofcode.com/).
 
