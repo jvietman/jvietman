@@ -3,7 +3,7 @@
 ## About me
 Im just a silly German that likes to create various tools that actually already exist, just for fun and experience.
 
-<img src="https://bluemoji.io/cdn-proxy/646218c67da47160c64a84d5/64634bf644ea290c3bbf033f_86.png" alt="thumbs up" width="150"/>
+<img src="https://bluemoji.io/cdn-proxy/646218c67da47160c64a84d5/66b3e5d0c2ab246786ca1d5e_86.png" alt="thumbs up" width="150"/>
 
 Feel free to check out my projects I started but never finished.
 
