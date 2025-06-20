@@ -1,11 +1,11 @@
 # Hi there 👋
 
-## Advent of Code 2024
-[![AdventOfCode](https://github-readme-stats.vercel.app/api/pin/?username=jvietman\&repo=advent-of-code-2024\&show_owner=true)](https://github.com/jvietman/advent-of-code-2024)
+## About me
+Im just a silly German that likes to create various tools that actually already exist, just for fun and experience.
 
-You can find all my solutions for the current Advent of Code in the repository above.
+<img src="https://bluemoji.io/cdn-proxy/646218c67da47160c64a84d5/64634bf644ea290c3bbf033f_86.png" alt="thumbs up" width="150"/>
 
-**Wanna try it yourself?** Check if out yourself on [adventofcode.com](https://adventofcode.com/).
+Feel free to check out my projects I started but never finished.
 
 ## Languages
 - Python <img width="20" alt="python" src="https://github.com/jvietman/jvietman/assets/77661493/8ac8cf01-c448-4236-9aa8-a6e41402c5a1">
@@ -15,4 +15,8 @@ You can find all my solutions for the current Advent of Code in the repository a
 - C# <img width="20" alt="csharp" src="https://github.com/jvietman/jvietman/assets/77661493/9abb9d53-9546-4df9-8edd-56fbbaf526c2">
 
 ## State of things
-Im trying to keep everything up to date. Currently Im going through all of my repositories to update information or to continue unfinished projects. Just to keep everything organized for you and me.
+I have many projects I have to finish and even more projects I didnt upload yet.
+
+<img src="https://bluemoji.io/cdn-proxy/646218c67da47160c64a84d5/66b3e58387f7cb984dde9eb7_92.png" alt="ooh" width="150"/>
+
+Time will tell when I have uploaded all of my projects, but because I dont automatically sync them with github and Im lazy this can take up some time.
